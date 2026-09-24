@@ -1,0 +1,23 @@
+{
+  "skill_name": "investor-warm-intros",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I'm a solo technical founder building a robotics simulation platform for warehouse automation. Pre-seed, 3 paying pilots, based in Berlin. I've emailed 60 VCs and got 2 replies, both passes. How do I actually get in front of the right investors?",
+      "expected_output": "Fit snapshot vs physical-AI/robotics theses, shortlist of verified funds, 1-2 recommended routes with concrete steps, and short drafted messages.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Who could introduce me to a partner at a fund like Point Nine? We do B2B SaaS for dental clinics, ~$40k MRR.",
+      "expected_output": "Focused answer on routes to that specific fund, verified portfolio examples, a draft first-touch message; no invented relationships.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "I ran growth at a fintech for 5 years and just started a company doing AI compliance tooling for banks. I want to raise in 6 months. Build me a plan to warm up investors starting now.",
+      "expected_output": "6-month plan combining a fast route and a compounding route (content or advice), timeline by month, drafts for the first steps.",
+      "files": []
+    }
+  ]
+}
