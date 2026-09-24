@@ -3,6 +3,11 @@
   "notGrouped": "bottom",
   "groupings": [
     {
+      "title": "Sales and partnerships",
+      "description": "Find decision-makers, research where they gather, and build relationships with buyers and partners.",
+      "skills": ["decision-maker-outreach"]
+    },
+    {
       "title": "Careers and opportunities",
       "description": "Find where your experience matters, reach founders, and propose pilots without a large upfront payment.",
       "skills": ["high-leverage-job-hunt"]
