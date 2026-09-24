@@ -1,6 +1,6 @@
 # Agent skills from a VC
 
-I'm [Paul Klay](https://x.com/PaulKlayVC), a venture capitalist. These are the agent skills I actually use: to research companies, find opportunities, reach decision-makers, and build relationships with customers and partners. I'm sharing the workflows behind how I work and how I've joined projects myself.
+I'm [Paul Klay](https://x.com/PaulKlayVC), a venture capitalist. These are the agent skills I actually use: to research companies, find opportunities, reach decision-makers, and build relationships with customers, partners, and investors. I'm sharing the workflows behind how I work and how I've joined projects myself.
 
 Use them with Claude Code, Codex, or another agent that supports skills.
 
@@ -8,8 +8,22 @@ Use them with Claude Code, Codex, or another agent that supports skills.
 
 | What you want to do | Skill |
 |---|---|
-| Reach buyers, partners, executives, or investors | [Decision-Maker Outreach](./decision-maker-outreach) |
+| Get warm introductions to VCs and angels for a fundraise | [Investor Warm Intros](./investor-warm-intros) |
+| Reach buyers, partners, or executives | [Decision-Maker Outreach](./decision-maker-outreach) |
 | Find a role or consulting opportunity by proving your value | [High-Leverage Job Hunt](./high-leverage-job-hunt) |
+
+### [Investor Warm Intros](./investor-warm-intros)
+
+Build a path to investors who fit your company through portfolio founders, useful content, help for portfolio companies, or investor-mentors. Built for founders preparing a fundraise or seeking an introduction to a specific fund.
+
+**What you get:**
+
+- **Investor-fit snapshot** — how your sector, stage, traction, geography, and background match investors' current theses and the founder profiles they tend to back.
+- **Ranked investor shortlist** — roughly 5–10 fitting funds or angels, with sourced theses, relevant partners, portfolio companies, and a recommended introduction route.
+- **Warm-intro action plan** — concrete next steps and a timeline for the routes that fit what you can offer and whom you already know.
+- **Messages and content drafts** — first-touch messages, later intro requests, advice follow-ups, relevant posts, and a forwardable company blurb as needed for your chosen routes.
+
+Ask for a full fundraising outreach plan or a focused route to one fund. The skill flags fit mismatches and unverified information instead of inventing investor relationships.
 
 ### [Decision-Maker Outreach](./decision-maker-outreach)
 
@@ -62,11 +76,24 @@ Choose the skills and your agent during setup. Add `-g` to install across all yo
 To install a specific skill:
 
 ```bash
+npx skills add paulklayvc/skills --skill investor-warm-intros
+```
+
+```bash
 npx skills add paulklayvc/skills --skill decision-maker-outreach
+```
+
+```bash
 npx skills add paulklayvc/skills --skill high-leverage-job-hunt
 ```
 
 ### Try it
+
+**Investor Warm Intros:**
+
+```text
+Use investor-warm-intros to help me prepare for a seed round in six months. Start with my company and background, then shortlist fitting investors and build a warm-intro plan with drafts for the first steps.
+```
 
 **Decision-Maker Outreach:**
 
