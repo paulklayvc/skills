@@ -35,8 +35,6 @@ Use investor-warm-intros to help me prepare for a seed round in six months. Star
 investor-warm-intros/
 ├── README.md                      # overview, installation, example prompt
 ├── SKILL.md                       # investor-fit workflow and four intro routes
-├── references/
-│   └── message-templates.md       # message structures, examples, forwardable blurb
-└── evals/
-    └── evals.json                 # three sample prompts and expected outcomes
+└── references/
+    └── message-templates.md       # message structures, examples, forwardable blurb
 ```
