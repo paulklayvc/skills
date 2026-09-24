@@ -45,7 +45,9 @@ Start at the stage you need. The skill asks for your context, researches the com
 
 Just send this to Claude Code, Codex, or another agent with terminal access:
 
-> Run `npx skills add paulklayvc/skills` and help me choose and set up the skills for this agent.
+```text
+Run `npx skills add paulklayvc/skills` and help me choose and set up the skills for this agent.
+```
 
 Your agent can handle the setup for you.
 
