@@ -10,6 +10,7 @@ Use them with Claude Code, Codex, or another agent that supports skills.
 |---|---|
 | Get warm introductions to VCs and angels for a fundraise | [Investor Warm Intros](./investor-warm-intros) |
 | Reach buyers, partners, or executives | [Decision-Maker Outreach](./decision-maker-outreach) |
+| Attract customers and partners with little upfront cash | [Bootstrap Growth](./bootstrap-growth) |
 | Find a role or consulting opportunity by proving your value | [High-Leverage Job Hunt](./high-leverage-job-hunt) |
 
 ### [Investor Warm Intros](./investor-warm-intros)
@@ -38,6 +39,19 @@ Find the people who can say yes, learn where they spend time, and build a natura
 - **Two-week action plan** — a short, dated list of next steps.
 
 Ask for the full **Reach Plan**, or just the piece you need: a customer profile, communities to research, or a first message.
+
+### [Bootstrap Growth](./bootstrap-growth)
+
+Design founding customer, influencer, and ambassador partnerships when acquisition cash is limited. Match the offer to what each partner values and what the team can deliver.
+
+**What you get:**
+
+- **Partner offer** — a concrete exchange with clear contributions and obligations for both sides.
+- **Sustainable incentives** — access, referrals, revenue share, and selective shared upside tied to meaningful results.
+- **Economic check** — delivery costs, commissions, cash timing, and break-even based on supplied numbers or labeled assumptions.
+- **Bounded pilot** — target partners, tracking, success criteria, stop criteria, and a decision date.
+
+Ask for a full acquisition plan, a specific partner offer, or a review of one deal.
 
 ### [High-Leverage Job Hunt](./high-leverage-job-hunt)
 
@@ -87,6 +101,10 @@ npx skills add paulklayvc/skills --skill decision-maker-outreach
 npx skills add paulklayvc/skills --skill high-leverage-job-hunt
 ```
 
+```bash
+npx skills add paulklayvc/skills --skill bootstrap-growth
+```
+
 ### Try it
 
 **Investor Warm Intros:**
@@ -98,6 +116,10 @@ Use investor-warm-intros to help me prepare for a seed round in six months. Star
 **Decision-Maker Outreach:**
 
 > Use decision-maker-outreach to help me reach Heads of Compliance at mid-size European fintechs. Start with my ideal customer profile, then build a Reach Plan with entry points, first messages, and a two-week action list.
+
+**Bootstrap Growth:**
+
+> Use bootstrap-growth to design an acquisition pilot for our AI implementation agency. Assume service businesses with 10–50 employees, a $3,000 project price, two existing clients, capacity for two new clients per month, and a $500 monthly acquisition budget. Propose clear offers, sustainable referral incentives, and a 60-day pilot. Flag additional assumptions.
 
 **High-Leverage Job Hunt:**
 

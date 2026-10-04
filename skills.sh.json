@@ -5,17 +5,24 @@
     {
       "title": "Fundraising",
       "description": "Find fitting investors and build a plan for warm introductions through trusted relationships and useful work.",
-      "skills": ["investor-warm-intros"]
+      "skills": [
+        "investor-warm-intros"
+      ]
     },
     {
       "title": "Sales and partnerships",
       "description": "Find decision-makers, research where they gather, and build relationships with buyers and partners.",
-      "skills": ["decision-maker-outreach"]
+      "skills": [
+        "decision-maker-outreach",
+        "bootstrap-growth"
+      ]
     },
     {
       "title": "Careers and opportunities",
       "description": "Find where your experience matters, reach founders, and propose pilots without a large upfront payment.",
-      "skills": ["high-leverage-job-hunt"]
+      "skills": [
+        "high-leverage-job-hunt"
+      ]
     }
   ]
 }
