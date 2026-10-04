@@ -46,12 +46,13 @@ Design founding customer, influencer, and ambassador partnerships when acquisiti
 
 **What you get:**
 
+- **Ranked partner shortlist** — researched candidates with sources, evidence of fit, and realistic contact routes.
 - **Partner offer** — a concrete exchange with clear contributions and obligations for both sides.
 - **Sustainable incentives** — access, referrals, revenue share, and selective shared upside tied to meaningful results.
 - **Economic check** — delivery costs, commissions, cash timing, and break-even based on supplied numbers or labeled assumptions.
 - **Bounded pilot** — target partners, tracking, success criteria, stop criteria, and a decision date.
 
-Ask for a full acquisition plan, a specific partner offer, or a review of one deal.
+Ask for a full acquisition plan with researched partners, a specific partner shortlist or offer, or a review of one deal.
 
 ### [High-Leverage Job Hunt](./high-leverage-job-hunt)
 

@@ -1,6 +1,6 @@
 ---
 name: bootstrap-growth
-description: "Design customer, influencer, and ambassador partnerships for startups with little upfront cash, using product access, participation, referrals, and selective shared upside. Use for bootstrapped acquisition offers, founding customer deals, core supporter recruitment, and ambassador programs; not general content marketing or paid ad optimization."
+description: "Design partnerships for startups with little upfront cash: research fitting customers, influencers, and ambassadors, shape their offers, check economics, and plan pilots. Use for bootstrapped acquisition, founding customer deals, referral partners, and ambassador recruitment; not general content marketing or paid ad optimization."
 ---
 
 # Bootstrap Growth
@@ -12,6 +12,8 @@ This method is adapted from the user-provided article about core supporters and 
 ## Establish the offer's foundation
 
 Use available project context before asking for information. Identify the product and stage, target customer, proof of demand, growth bottleneck, cash limit, delivery capacity, and assets the team can actually offer. For economic estimates, establish price, variable costs, and payment timing. Ask only for missing inputs that would materially change the recommendation; mark provisional assumptions clearly.
+
+For a full acquisition or recruitment plan, also establish the target industry, geography, language, and partner profile that will guide research. Ask for missing decisions in one short batch; look up public facts yourself. Do not silently choose a market for the user. Continue independent work on the offer and economics while waiting for a research-critical answer.
 
 Answer **why would this product win for this audience, and why would this partner believe it?** Tie the answer to evidence such as demonstrated customer outcomes, an engaged user base, distinctive capabilities, or a credible distribution advantage. Separate observed evidence from the founder's hypothesis. If the answer is weak, propose a small product or partnership test that could establish it before promising scale.
 
@@ -49,6 +51,16 @@ Build a small bundle from benefits the product and team can sustain:
 
 Explain why an ambassador would participate before assuming they will promote. Avoid manufactured scarcity, promised roadmap influence the team cannot provide, or founder-access benefits that cannot survive the proposed cohort size.
 
+## Research and qualify real candidates
+
+For a full acquisition, partnership, or recruitment plan, research real candidates as part of the task without waiting for a separate request to search. Once the market and partner profile are clear, use available web search and read current sources. Follow [references/partner-research.md](references/partner-research.md) for qualification and the shortlist. Research only the models selected for this product.
+
+Start with relevant customers, users, and relationships the user already has, then research additional candidates where the pilot needs them. Respect an explicit restriction to existing contacts. For an ambassador program, look for evidence of actual product use or relevant participation; a creator with a matching audience is a prospective partner, not a verified fan. If demand evidence is weak, research a small discovery cohort for the learning test rather than imply readiness to scale.
+
+Rank candidates by audience fit, credible contribution, attainable value exchange, and a realistic route to a conversation. Tie proposed benefits and first-touch drafts for priority candidates to the evidence found. Use the shortlist to choose the pilot's first targets, and distinguish public facts, inferred fit, and terms still to be negotiated.
+
+If search is unavailable or relevant evidence cannot be verified, state the limitation and give candidate profiles and a concrete verification path; do not present guessed names as researched candidates. A narrow commission calculation, offer revision, or review of a supplied deal does not require a broad search. Investigate only external facts that would materially change that answer.
+
 ## Check economics and commitments
 
 Show what is exchanged, what it costs, and when each side receives value. Treat access, customization, support, and founder time as costs even when they require no immediate payment. Track equity dilution separately from cash contribution.
@@ -82,6 +94,6 @@ Strong partners accepting the offer is an early signal. Delivered outcomes and r
 
 ## Deliver the requested result
 
-Match the user's language and scope. For a full plan, lead with the recommended model and why it fits, then provide a compact comparison of partner value, startup value, obligations, costs, and evidence gaps. Include the economic assumptions and a concrete pilot with success/stop criteria and the next action. Add outreach copy or a commercial offer when requested or needed for that deliverable.
+Match the user's language and scope. For a full plan, lead with the recommended model and why it fits, then provide a compact comparison of partner value, startup value, obligations, costs, and evidence gaps. Include the sourced, ranked candidate shortlist, tailored offers and first-touch drafts for priority targets, economic assumptions, and a concrete pilot with success/stop criteria and the next action. Link the pilot's targets and activities to the research. Label an incomplete or blocked shortlist rather than present a framework-only answer as a completed recruitment plan.
 
 For a narrow request such as revising an ambassador invitation or evaluating one deal, deliver that artifact directly and surface only the unresolved issues that change it. Do not expand every task into a complete growth strategy.
