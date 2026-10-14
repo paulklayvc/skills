@@ -9,6 +9,7 @@ Use them with Claude Code, Codex, or another agent that supports skills.
 | What you want to do | Skill |
 |---|---|
 | Get warm introductions to VCs and angels for a fundraise | [Investor Warm Intros](./investor-warm-intros) |
+| Check whether a VC's term sheet or financing documents are good before you sign | [VC Terms Review](./vc-terms-review) |
 | Reach buyers, partners, or executives | [Decision-Maker Outreach](./decision-maker-outreach) |
 | Attract customers and partners with little upfront cash | [Bootstrap Growth](./bootstrap-growth) |
 | Find a role or consulting opportunity by proving your value | [High-Leverage Job Hunt](./high-leverage-job-hunt) |
@@ -25,6 +26,23 @@ Build a path to investors who fit your company through portfolio founders, usefu
 - **Messages and content drafts** — first-touch messages, later intro requests, advice follow-ups, relevant posts, and a forwardable company blurb as needed for your chosen routes.
 
 Ask for a full fundraising outreach plan or a focused route to one fund. The skill flags fit mismatches and unverified information instead of inventing investor relationships.
+
+### [VC Terms Review](./vc-terms-review)
+
+Check a term sheet, SAFE, or full set of financing documents before you sign. Compares every material term with the NVCA, YC, Series Seed, and UK model documents and current deal-term data, and runs the math on who gets paid in an exit.
+
+Built on [my post on X about the top mistakes founders make when dealing with VCs](https://x.com/PaulKlayVC/status/2110000227138589171): conflicts of interest, investor rights that can change without your consent, cap table access, control, liquidation preferences, and terms that leave investors protected and founders exposed.
+
+**What you get:**
+
+- **Verdict** — Clean, Acceptable with fixes, Negotiate before signing, or Serious concerns.
+- **Ranked issues** — each with the clause, its practical effect, its cost in numbers, the market benchmark, and what to ask for.
+- **Term table** — every material term rated against the standard for your stage and jurisdiction.
+- **Numbers** — ownership after the round, the option pool shuffle, SAFE conversion, and who gets what at different exit values.
+- **Control map and negotiation plan** — who controls the board now and after future rounds, what to push on, and what to accept.
+- **Questions for your lawyer** and investor diligence, including reference calls with founders whose companies struggled.
+
+Ask for a full review of your documents or a quick check of one clause. It is not legal advice; it prepares you for the conversation with your lawyer and your investor.
 
 ### [Decision-Maker Outreach](./decision-maker-outreach)
 
@@ -95,6 +113,10 @@ npx skills add paulklayvc/skills --skill investor-warm-intros
 ```
 
 ```bash
+npx skills add paulklayvc/skills --skill vc-terms-review
+```
+
+```bash
 npx skills add paulklayvc/skills --skill decision-maker-outreach
 ```
 
@@ -113,6 +135,10 @@ npx skills add paulklayvc/skills --skill bootstrap-growth
 ```text
 Use investor-warm-intros to help me prepare for a seed round in six months. Start with my company and background, then shortlist fitting investors and build a warm-intro plan with drafts for the first steps.
 ```
+
+**VC Terms Review:**
+
+> Use vc-terms-review to check this Series A term sheet against market terms. Our cap table is below. Tell me how good the deal is, model what we get at different exit values, and what we should push back on.
 
 **Decision-Maker Outreach:**
 

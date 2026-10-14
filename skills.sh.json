@@ -4,9 +4,10 @@
   "groupings": [
     {
       "title": "Fundraising",
-      "description": "Find fitting investors and build a plan for warm introductions through trusted relationships and useful work.",
+      "description": "Find fitting investors, build warm introductions, and check whether a VC's terms are good before you sign.",
       "skills": [
-        "investor-warm-intros"
+        "investor-warm-intros",
+        "vc-terms-review"
       ]
     },
     {
