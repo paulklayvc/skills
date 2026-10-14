@@ -1,6 +1,8 @@
 # Deal-term market data
 
-Numbers to cite when saying how common a term is. Compiled October 2026 from the reports below; each number carries its source key and period. When a review depends on the current quarter, check for newer editions (see [sources.md](sources.md)) and cite the newest report you actually read.
+**Data as of: October 2026** (latest editions read: Cooley Q2 2026, Wilson Sonsini Q2 2026, PitchBook-NVCA Q3 2026, Carta Q1–Q2 2026, Osler 2025, Orrick Deal Flow 6.0).
+
+Numbers to cite when saying how common a term is; each number carries its source key and period. When this date is more than six months old, look for newer editions of these reports first (names and cadence in [sources.md](sources.md)) and use this file as the fallback.
 
 How to use the data:
 - Law-firm samples (Cooley, WSGR, Osler) reflect their own clients; PitchBook-NVCA covers the broad US market; Carta reflects companies on its platform. Prefer ranges across sources over one precise figure.
@@ -238,7 +240,7 @@ Osler notes that a pool increase is typically counted in the pre-money and reduc
 ## 10. Canada and Europe
 
 - **Canada:** see the OSLER-* rows above. Other 2025 context: record US$4.5B invested in Osler-sample deals. AI took 54.0% of dollars and 23.6% of deals. Series C deals had a secondary component in 60.0% of cases, Series D+ in 28.6% [OSLER-OTHER].
-- **Europe — Orrick, *Deal Flow 6.0*** (published 2026-03-31; 400+ venture and growth deals by Orrick clients in Europe in 2025; skews company-side) [ORRICK-DF6], https://media.orrick.com/Media%20Library/public/files/insights/2026/orrick-deal-flow-6-report.pdf:
+- **Europe — Orrick, *Deal Flow 6.0*** (published 2026-03-31; 400+ venture and growth deals by Orrick clients in Europe in 2025; skews company-side) [ORRICK-DF6] ([report PDF](https://media.orrick.com/Media%20Library/public/files/insights/2026/orrick-deal-flow-6-report.pdf)):
 
 | Term | 2025 |
 |---|---|

@@ -98,7 +98,7 @@ Contents: valuation and option pool · SAFEs and convertible notes · liquidatio
 - **Investor-leaning but seen:** monthly reporting; an observer seat for a lead that has no board seat. Observers owe no fiduciary duties, so their access depends entirely on contractual confidentiality and exclusion rights.
 - **Watch:** the October 2025 NVCA investors' rights agreement expanded the carve-out that keeps large venture funds out of the "Competitor" definition, so a fund holding a competing stake can still receive information. Read the definition against the investor's actual portfolio.
 - **Red flags:** information rights for every holder; KPI, pipeline, or roadmap packages without confidentiality limits; confidentiality carve-outs allowing disclosure to portfolio companies or "prospective" limited partners; observers without confidentiality undertakings or exclusion rights for competitive or privileged matters; management rights letters that give board materials without those exclusions.
-- **Ask:** a meaningful Major Investor threshold, quarterly reporting, a competitor exclusion, confidentiality without portfolio-company carve-outs, observer exclusion rights, and recusal from competitive discussions.
+- **Ask:** a meaningful Major Investor threshold, quarterly reporting, a competitor exclusion, confidentiality without portfolio-company carve-outs, observer exclusion rights, and recusal from competitive discussions. For each investor director, observer, or adviser: disclosure of their other board, observer, and advisory roles, a duty to report new ones, and automatic termination if they join or advise a competitor.
 
 ## Competing investments and corporate opportunities
 

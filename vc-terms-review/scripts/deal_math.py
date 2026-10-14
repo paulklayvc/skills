@@ -632,6 +632,14 @@ instrument's own capitalization definition.""",
 
 
 def cmd_example(args):
+    if args.which == "antidilution":
+        print("python3 scripts/deal_math.py antidilution --cp1 1.00 --new-price 0.50 \\\n"
+              "  --new-shares 2000000 --pref-shares 1000000 --a-broad 10000000 --a-narrow 3000000",
+              flush=True)
+        print("\nFlags: --cp1 current conversion price; --new-price and --new-shares of the"
+              " dilutive issuance; --pref-shares protected preferred; --a-broad / --a-narrow"
+              " base A per the charter; --oip original issue price (default --cp1).", file=sys.stderr)
+        return
     print(json.dumps(EXAMPLES[args.which], indent=2), flush=True)
     print("\n" + FIELD_NOTES[args.which], file=sys.stderr)
 
@@ -678,7 +686,7 @@ def main():
     s.set_defaults(func=cmd_safes)
 
     e = sub.add_parser("example", help="print an input template")
-    e.add_argument("which", choices=sorted(EXAMPLES))
+    e.add_argument("which", choices=sorted(list(EXAMPLES) + ["antidilution"]))
     e.set_defaults(func=cmd_example)
 
     args = parser.parse_args()

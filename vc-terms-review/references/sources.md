@@ -25,6 +25,8 @@ Use these to verify a position, read the full model text behind a clause, or ref
 
 ## Market data on deal terms
 
+Search for the latest edition by report name; URLs change with each edition.
+
 | Source | Cadence | Covers |
 |---|---|---|
 | [Cooley venture financing report](https://www.cooley.com/news/insight/2026/2026-08-17-q2-2026-venture-financing-report) and [Cooley GO data](https://www.cooleygo.com/data) | Quarterly | Preference multiples, participation, dividends, redemption, pay-to-play, up and down rounds |
